@@ -1,0 +1,1 @@
+It tells about the updates of coronavius cases in the respective countries.
